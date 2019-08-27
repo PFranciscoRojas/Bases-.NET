@@ -1,0 +1,32 @@
+D:\A Material de estudio\Platzi\Asp .Net\bin\Debug\netcoreapp2.2\Asp .Net.deps.json
+D:\A Material de estudio\Platzi\Asp .Net\bin\Debug\netcoreapp2.2\Asp .Net.runtimeconfig.json
+D:\A Material de estudio\Platzi\Asp .Net\bin\Debug\netcoreapp2.2\Asp .Net.runtimeconfig.dev.json
+D:\A Material de estudio\Platzi\Asp .Net\bin\Debug\netcoreapp2.2\Asp .Net.dll
+D:\A Material de estudio\Platzi\Asp .Net\bin\Debug\netcoreapp2.2\Asp .Net.pdb
+D:\A Material de estudio\Platzi\Asp .Net\bin\Debug\netcoreapp2.2\Asp .Net.Views.dll
+D:\A Material de estudio\Platzi\Asp .Net\bin\Debug\netcoreapp2.2\Asp .Net.Views.pdb
+D:\A Material de estudio\Platzi\Asp .Net\obj\Debug\netcoreapp2.2\Asp .Net.csprojAssemblyReference.cache
+D:\A Material de estudio\Platzi\Asp .Net\obj\Debug\netcoreapp2.2\Asp .Net.csproj.CoreCompileInputs.cache
+D:\A Material de estudio\Platzi\Asp .Net\obj\Debug\netcoreapp2.2\Asp .Net.RazorAssemblyInfo.cache
+D:\A Material de estudio\Platzi\Asp .Net\obj\Debug\netcoreapp2.2\Asp .Net.RazorAssemblyInfo.cs
+D:\A Material de estudio\Platzi\Asp .Net\obj\Debug\netcoreapp2.2\Asp .Net.AssemblyInfoInputs.cache
+D:\A Material de estudio\Platzi\Asp .Net\obj\Debug\netcoreapp2.2\Asp .Net.AssemblyInfo.cs
+D:\A Material de estudio\Platzi\Asp .Net\obj\Debug\netcoreapp2.2\Asp .Net.TagHelpers.input.cache
+D:\A Material de estudio\Platzi\Asp .Net\obj\Debug\netcoreapp2.2\Asp .Net.TagHelpers.output.cache
+D:\A Material de estudio\Platzi\Asp .Net\obj\Debug\netcoreapp2.2\Asp .Net.RazorCoreGenerate.cache
+D:\A Material de estudio\Platzi\Asp .Net\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\A Material de estudio\Platzi\Asp .Net\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\A Material de estudio\Platzi\Asp .Net\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\A Material de estudio\Platzi\Asp .Net\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\A Material de estudio\Platzi\Asp .Net\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\A Material de estudio\Platzi\Asp .Net\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\A Material de estudio\Platzi\Asp .Net\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\A Material de estudio\Platzi\Asp .Net\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\A Material de estudio\Platzi\Asp .Net\obj\Debug\netcoreapp2.2\Asp .Net.RazorTargetAssemblyInfo.cache
+D:\A Material de estudio\Platzi\Asp .Net\obj\Debug\netcoreapp2.2\Asp .Net.RazorTargetAssemblyInfo.cs
+D:\A Material de estudio\Platzi\Asp .Net\obj\Debug\netcoreapp2.2\Asp .Net.Views.pdb
+D:\A Material de estudio\Platzi\Asp .Net\obj\Debug\netcoreapp2.2\Asp .Net.dll
+D:\A Material de estudio\Platzi\Asp .Net\obj\Debug\netcoreapp2.2\Asp .Net.pdb
+D:\A Material de estudio\Platzi\Asp .Net\obj\Debug\netcoreapp2.2\Asp .Net.csproj.CopyComplete
+D:\A Material de estudio\Platzi\Asp .Net\obj\Debug\netcoreapp2.2\Razor\Views\Escuela\Index.g.cshtml.cs
+D:\A Material de estudio\Platzi\Asp .Net\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Simple.g.cshtml.cs
