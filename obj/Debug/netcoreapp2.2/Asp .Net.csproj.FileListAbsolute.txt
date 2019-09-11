@@ -30,3 +30,8 @@ D:\A Material de estudio\Platzi\Asp .Net\obj\Debug\netcoreapp2.2\Asp .Net.pdb
 D:\A Material de estudio\Platzi\Asp .Net\obj\Debug\netcoreapp2.2\Asp .Net.csproj.CopyComplete
 D:\A Material de estudio\Platzi\Asp .Net\obj\Debug\netcoreapp2.2\Razor\Views\Escuela\Index.g.cshtml.cs
 D:\A Material de estudio\Platzi\Asp .Net\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Simple.g.cshtml.cs
+D:\A Material de estudio\Platzi\Asp .Net\obj\Debug\netcoreapp2.2\Razor\Views\Asignatura\Index.g.cshtml.cs
+D:\A Material de estudio\Platzi\Asp .Net\obj\Debug\netcoreapp2.2\Razor\Views\Asignatura\MultiAsignaturas.g.cshtml.cs
+D:\A Material de estudio\Platzi\Asp .Net\obj\Debug\netcoreapp2.2\Razor\Views\Shared\ObjetoEscuelaSimple.g.cshtml.cs
+D:\A Material de estudio\Platzi\Asp .Net\obj\Debug\netcoreapp2.2\Razor\Views\Alumno\Index.g.cshtml.cs
+D:\A Material de estudio\Platzi\Asp .Net\obj\Debug\netcoreapp2.2\Razor\Views\Alumno\MultiAlumnos.g.cshtml.cs

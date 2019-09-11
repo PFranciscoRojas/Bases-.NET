@@ -10,20 +10,22 @@ namespace Asp_.Net.Controllers
 {
     public class EscuelaController : Controller
     {
+
         // GET: Escuela
         public IActionResult Index()
         {
-            var escuela = new Escuela();
-            escuela.AñoDeCreación = 2010;
-            escuela.UniqueId = Guid.NewGuid().ToString();
-            escuela.Nombre = "Francis";
-            escuela.Pais = "Colombia";
-            escuela.Ciudad = "Pasto";
-            escuela.Dirección = "Obrero";
-            escuela.TipoEscuela = TiposEscuela.Secundaria;
+           
             ViewBag.CosaDinamica = "La monja";
+            var escuela = _context.Escuelas.FirstOrDefault();
 
             return View(escuela);
+        }
+
+        private EscuelaContext _context;
+
+        public EscuelaController(EscuelaContext context)
+        {
+            _context = context;
         }
 
       
